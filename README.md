@@ -1,0 +1,2 @@
+# CAPTCHATest
+Simple captcha test.
